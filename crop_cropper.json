@@ -1,0 +1,8 @@
+{
+    "original_directories" : ["./first_folder", "./second_folder"],
+    "new_directories" : ["./first_new_folder", "./second_new_folder"],
+    "crop_percentage" : 10,
+    "original_directories_example" : ["./first_folder", "./second_folder"],
+    "new_directories_example" : ["./../first_new_folder", "./../second_new_folder"],
+    "example_jpg" : "92-1.jpg"
+}
